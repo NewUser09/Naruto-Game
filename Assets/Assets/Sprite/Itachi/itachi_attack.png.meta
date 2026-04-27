@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: 423e7b09659ea6543aa0ccad15690b3f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5866373397204551147
+    second: itachi_attack_0
+  - first:
+      213: 4267501690581208264
+    second: itachi_attack_1
+  - first:
+      213: 7474326874042815957
+    second: itachi_attack_2
+  - first:
+      213: 3529246951550233765
+    second: itachi_attack_3
+  - first:
+      213: 4557296680436322451
+    second: itachi_attack_4
+  - first:
+      213: -8018697573601868082
+    second: itachi_attack_5
+  - first:
+      213: -5360638894722034877
+    second: itachi_attack_6
+  - first:
+      213: 956591914000305793
+    second: itachi_attack_7
+  - first:
+      213: 6990264762359318164
+    second: itachi_attack_8
+  - first:
+      213: -2151239715083600266
+    second: itachi_attack_9
+  - first:
+      213: 7963432386839339247
+    second: itachi_attack_10
+  - first:
+      213: 3059765833784432768
+    second: itachi_attack_11
+  - first:
+      213: 6310657164436297582
+    second: itachi_attack_12
+  - first:
+      213: -7748842358868126880
+    second: itachi_attack_13
+  - first:
+      213: 8244713699756688800
+    second: itachi_attack_14
+  - first:
+      213: -4382978847383430233
+    second: itachi_attack_15
+  - first:
+      213: -8511354350982127583
+    second: itachi_attack_16
+  - first:
+      213: 5570232145483516725
+    second: itachi_attack_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 60
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: itachi_attack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 603
+        width: 209
+        height: 270
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a32d30a74769ea0800000000000000
+      internalID: -5866373397204551147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_attack_1
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 603
+        width: 178
+        height: 297
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ccc8796d26393b30800000000000000
+      internalID: 4267501690581208264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_attack_2
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 603
+        width: 326
+        height: 297
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d55a76f0b42ab760800000000000000
+      internalID: 7474326874042815957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_attack_3
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 603
+        width: 198
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac28c757676af030800000000000000
+      internalID: 3529246951550233765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_attack_5
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 603
+        width: 146
+        height: 282
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec68c2caa0dd7b090800000000000000
+      internalID: -8018697573601868082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_attack_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 303
+        width: 149
+        height: 261
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34353feb35f2b95b0800000000000000
+      internalID: -5360638894722034877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_attack_7
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 303
+        width: 294
+        height: 267
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ecffc074f764d00800000000000000
+      internalID: 956591914000305793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_attack_8
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 303
+        width: 293
+        height: 265
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4968b5ee3c8620160800000000000000
+      internalID: 6990264762359318164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_attack_9
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 303
+        width: 258
+        height: 267
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ebabb70e24522e0800000000000000
+      internalID: -2151239715083600266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_attack_10
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 303
+        width: 141
+        height: 286
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe06662509bc38e60800000000000000
+      internalID: 7963432386839339247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_attack_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 141
+        height: 269
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088199280d8767a20800000000000000
+      internalID: 3059765833784432768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_attack_12
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 0
+        width: 174
+        height: 265
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e67df797145f39750800000000000000
+      internalID: 6310657164436297582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_attack_13
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 0
+        width: 174
+        height: 269
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0635a230ee4967490800000000000000
+      internalID: -7748842358868126880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_attack_14
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 0
+        width: 237
+        height: 261
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a54bc47d6b1b6270800000000000000
+      internalID: 8244713699756688800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_attack_15
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 0
+        width: 246
+        height: 265
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7abd8a7d5f78c23c0800000000000000
+      internalID: -4382978847383430233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_attack_16
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 241
+        height: 225
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1202c38105891e980800000000000000
+      internalID: -8511354350982127583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_attack_17
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 0
+        width: 153
+        height: 293
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53bc10cbf907d4d40800000000000000
+      internalID: 5570232145483516725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_attack_4
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 739
+        width: 142
+        height: 134
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af60e2ab26201a14294cf7691d09e831
+      internalID: 4557296680436322451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c054d555d0acd9e4285b6371dc10060a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      itachi_attack_0: -5866373397204551147
+      itachi_attack_1: 4267501690581208264
+      itachi_attack_10: 7963432386839339247
+      itachi_attack_11: 3059765833784432768
+      itachi_attack_12: 6310657164436297582
+      itachi_attack_13: -7748842358868126880
+      itachi_attack_14: 8244713699756688800
+      itachi_attack_15: -4382978847383430233
+      itachi_attack_16: -8511354350982127583
+      itachi_attack_17: 5570232145483516725
+      itachi_attack_2: 7474326874042815957
+      itachi_attack_3: 3529246951550233765
+      itachi_attack_4: 4557296680436322451
+      itachi_attack_5: -8018697573601868082
+      itachi_attack_6: -5360638894722034877
+      itachi_attack_7: 956591914000305793
+      itachi_attack_8: 6990264762359318164
+      itachi_attack_9: -2151239715083600266
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

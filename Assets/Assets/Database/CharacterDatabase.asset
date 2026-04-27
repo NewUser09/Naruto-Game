@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b31fd79791fe3448031172c6d99406, type: 3}
+  m_Name: CharacterDatabase
+  m_EditorClassIdentifier: 
+  character:
+  - characterName: Naruto Uzumaki
+    characterSprite: {fileID: 21300000, guid: 504e39b4af9c1194780e99704dd485e0, type: 3}
+    characterPotrait: {fileID: -5169901733799512142, guid: d74506c826fdd214ba4ae8feba70a6bc, type: 3}
+    description: Naruto adalah ninja Konoha yang bersemangat dan pantang menyerah
+      dengan cita-cita besar menjadi Hokage. Meski menyimpan siluman Rubah Ekor Sembilan
+      yang membuatnya sempat dikucilkan, ia memiliki tekad api dan kemampuan luar
+      biasa untuk mengubah musuh-musuhnya menjadi teman
+    skillIcon: {fileID: 7644616575977780093, guid: 89e667930d1cb2346aa75291f3cdca93, type: 3}
+    voiceClip: {fileID: 8300000, guid: 60b320b4b7edb094d8badf5ddbdd5fe5, type: 3}
+  - characterName: Sasuke Uchiha
+    characterSprite: {fileID: 21300000, guid: 2b29a6b7b58c8e24e924b60bf7c2fd71, type: 3}
+    characterPotrait: {fileID: -4691094914988123300, guid: 404ddff0ebc598848a38e068ebb4601c, type: 3}
+    description: Sasuke adalah sosok yang sangat dingin dan didorong sepenuhnya oleh
+      ambisi untuk membunuh kakaknya, Itachi. Setelah menyerap Orochimaru, ia memimpin
+      tim "Hebi" dengan perhitungan taktis, memanfaatkan anggotanya murni sebagai
+      alat untuk mencapai balas dendamnya
+    skillIcon: {fileID: 3689326047202371991, guid: 89e667930d1cb2346aa75291f3cdca93, type: 3}
+    voiceClip: {fileID: 8300000, guid: c23f8ebea2028af428e1128f0218faeb, type: 3}
+  - characterName: Sakura Haruno
+    characterSprite: {fileID: 21300000, guid: 1418e434be4165e4baff179321092bd9, type: 3}
+    characterPotrait: {fileID: -3985886008798931524, guid: bfd0c4ea68f13cf4f971671143a4f4ed, type: 3}
+    description: Sakura adalah kunoichi cerdas yang berkembang dari gadis rapuh menjadi
+      ninja medis tangguh di bawah bimbingan Tsunade. Ia dibekali kekuatan fisik
+      penghancur yang luar biasa dan kontrol chakra yang sangat presisi, menjadikannya
+      pilar dukungan yang vital
+    skillIcon: {fileID: 0}
+    voiceClip: {fileID: 8300000, guid: 15805cea9b00e094c9c3378140bf8a70, type: 3}
+  - characterName: Kakashi Hatake
+    characterSprite: {fileID: 21300000, guid: 5199f4ecc20cad94f90b602a6a5e8b7c, type: 3}
+    characterPotrait: {fileID: 4551833509986138914, guid: 1d0525b425cd971469811787f267fd4c, type: 3}
+    description: Sang "Ninja Peniru" ini adalah pemimpin Tim 7 yang tampak santai
+      namun aslinya merupakan veteran perang yang jenius. Dikenal karena mata Sharingan
+      pemberian mendiang sahabatnya, Kakashi menyimpan masa lalu kelam namun mendedikasikan
+      hidupnya untuk melindungi generasi penerus Konoha
+    skillIcon: {fileID: -3368862553593020884, guid: 89e667930d1cb2346aa75291f3cdca93, type: 3}
+    voiceClip: {fileID: 8300000, guid: 2430ebc2efdc8544387a71ed1f11521c, type: 3}
+  - characterName: Jiraiya
+    characterSprite: {fileID: 21300000, guid: 52b245509b7f03742942f8b4de4e3199, type: 3}
+    characterPotrait: {fileID: -6574309966952364051, guid: 21d9d80188d570d489e1813dfec558e6, type: 3}
+    description: Salah satu dari Tiga Sannin Legendaris ini adalah seorang petualang
+      eksentrik yang sering dijuluki "Petapa Genit". Di balik tingkah konyolnya,
+      Jiraiya adalah shinobi berkekuatan luar biasa dan mentor berhati hangat yang
+      mewariskan filosofi perdamaian kepada murid-muridnya
+    skillIcon: {fileID: -859216825727464329, guid: 89e667930d1cb2346aa75291f3cdca93, type: 3}
+    voiceClip: {fileID: 8300000, guid: 3a54f4a318897dc4eb27dc0b20ff499e, type: 3}
+  - characterName: Itachi Uchiha
+    characterSprite: {fileID: 21300000, guid: 9ce50ace2682c4a429a841443bdc7786, type: 3}
+    characterPotrait: {fileID: -5839741502771922179, guid: 11e9f69999afe174b9a74abf95430aba, type: 3}
+    description: Itachi adalah seorang jenius tragis yang terpaksa membantai seluruh
+      klannya sendiri demi mencegah pecahnya perang saudara di Konoha. Ia rela menanggung
+      kebencian dunia, terutama dari adiknya (Sasuke), dan menyusup ke organisasi
+      Akatsuki sebagai agen ganda demi melindungi desa yang dicintainya
+    skillIcon: {fileID: -8643771691102677897, guid: 89e667930d1cb2346aa75291f3cdca93, type: 3}
+    voiceClip: {fileID: 8300000, guid: 93f7152f9b55f3d4eaa8f5d5793229d6, type: 3}
+  - characterName: Pain
+    characterSprite: {fileID: 21300000, guid: 90d21ea75b751e54390092f83ff856a0, type: 3}
+    characterPotrait: {fileID: 2489732106473297883, guid: 2c30d967660630a40ba3b9dea3aee329, type: 3}
+    description: Pain adalah sosok pemimpin Akatsuki yang dikendalikan oleh Nagato
+      menggunakan kekuatan mata dewa, Rinnegan. Terdorong oleh tragedi perang tanpa
+      henti, ia memiliki ideologi ekstrem bahwa kedamaian sejati hanya bisa dicapai
+      dengan memaksa dunia merasakan penderitaan yang mutlak
+    skillIcon: {fileID: -3005806132116401793, guid: 89e667930d1cb2346aa75291f3cdca93, type: 3}
+    voiceClip: {fileID: 8300000, guid: e80a1145ad76088459dcc90e5c664587, type: 3}
+  - characterName: Suigetsu Hozuki
+    characterSprite: {fileID: 21300000, guid: e83e77d176660884da6a03f71adff3bc, type: 3}
+    characterPotrait: {fileID: 3054373359047362902, guid: 8eade737e6295e345a3c345e6da90721, type: 3}
+    description: Suigetsu adalah anggota tim Hebi yang berwatak santai, ceplas-ceplos,
+      dan berambisi mengumpulkan pedang-pedang legendaris Kirigakure. Ia memiliki
+      kemampuan genetik unik yang membuat tubuhnya bisa berubah menjadi cairan, memungkinkannya
+      kebal dari tebasan sambil mengayunkan pedang raksasa peninggalan Zabuza
+    skillIcon: {fileID: 0}
+    voiceClip: {fileID: 8300000, guid: 142d81ef9947efb4592613deec6f6c10, type: 3}
