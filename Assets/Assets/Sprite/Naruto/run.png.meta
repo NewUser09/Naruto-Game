@@ -1,22 +1,49 @@
 fileFormatVersion: 2
-guid: abad1da8e142d3a47b3a310bfb4deeac
+guid: a317140850d033345b1884e8d6dcf885
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7399533318584292489
-    second: tile_0
+      213: -1882347247711912902
+    second: run_0
   - first:
-      213: 7713819393718715255
-    second: tile_1
+      213: 7439426567979852956
+    second: run_1
   - first:
-      213: -7289178230066185966
-    second: tile_2
+      213: -2673560216460186399
+    second: run_2
   - first:
-      213: -113938230342917849
-    second: tile_3
+      213: -5822559823783948592
+    second: run_3
   - first:
-      213: -3718020969999653077
-    second: tile_4
+      213: -4997308686002322044
+    second: run_4
+  - first:
+      213: -7808277857516635856
+    second: run_5
+  - first:
+      213: 2102408166121253023
+    second: run_6
+  - first:
+      213: -828024806730890176
+    second: run_7
+  - first:
+      213: 7319402618797355783
+    second: run_8
+  - first:
+      213: -5877058464083753606
+    second: run_9
+  - first:
+      213: 3003789169655790119
+    second: run_10
+  - first:
+      213: -6092536456907055262
+    second: run_11
+  - first:
+      213: -1445699202850245649
+    second: run_12
+  - first:
+      213: 907984458040544535
+    second: run_13
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -63,7 +90,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 60
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -109,19 +136,6 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
     buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -138,111 +152,133 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: tile_0
+      name: run_0
       rect:
         serializedVersion: 2
-        x: 31
-        y: 926
-        width: 34
-        height: 67
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 0
+        width: 238
+        height: 220
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 98452ed495c60b660800000000000000
-      internalID: 7399533318584292489
+      spriteID: a3c723cb62f80e5e0800000000000000
+      internalID: -1882347247711912902
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tile_1
+      name: run_1
       rect:
         serializedVersion: 2
-        x: 127
-        y: 863
-        width: 578
-        height: 130
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 246
+        y: 0
+        width: 240
+        height: 220
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7738f187eddfc0b60800000000000000
-      internalID: 7713819393718715255
+      spriteID: c94ea0d3c072e3760800000000000000
+      internalID: 7439426567979852956
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tile_2
+      name: run_2
       rect:
         serializedVersion: 2
-        x: 31
-        y: 607
-        width: 514
-        height: 194
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 490
+        y: 0
+        width: 196
+        height: 206
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 219f46cf403a7da90800000000000000
-      internalID: -7289178230066185966
+      spriteID: 1ec2644f52b95ead0800000000000000
+      internalID: -2673560216460186399
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tile_3
+      name: run_5
       rect:
         serializedVersion: 2
-        x: 31
-        y: 351
-        width: 514
-        height: 194
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 691
+        y: 0
+        width: 247
+        height: 220
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 721e21e78c53b6ef0800000000000000
-      internalID: -113938230342917849
+      spriteID: 0393c2b98ac63a390800000000000000
+      internalID: -7808277857516635856
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tile_4
+      name: run_6
       rect:
         serializedVersion: 2
-        x: 608
-        y: 347
-        width: 337
-        height: 198
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 939
+        y: 0
+        width: 243
+        height: 220
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b27a7bf60afe66cc0800000000000000
-      internalID: -3718020969999653077
+      spriteID: f98a98a86114d2d10800000000000000
+      internalID: 2102408166121253023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_7
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 0
+        width: 190
+        height: 211
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044089943d34284f0800000000000000
+      internalID: -828024806730890176
       vertices: []
       indices: 
       edges: []
@@ -251,7 +287,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 035fc345c37aaf245ad4543167b1f1fc
     internalID: 0
     vertices: []
     indices: 
@@ -261,11 +297,20 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      tile_0: 7399533318584292489
-      tile_1: 7713819393718715255
-      tile_2: -7289178230066185966
-      tile_3: -113938230342917849
-      tile_4: -3718020969999653077
+      run_0: -1882347247711912902
+      run_1: 7439426567979852956
+      run_10: 3003789169655790119
+      run_11: -6092536456907055262
+      run_12: -1445699202850245649
+      run_13: 907984458040544535
+      run_2: -2673560216460186399
+      run_3: -5822559823783948592
+      run_4: -4997308686002322044
+      run_5: -7808277857516635856
+      run_6: 2102408166121253023
+      run_7: -828024806730890176
+      run_8: 7319402618797355783
+      run_9: -5877058464083753606
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

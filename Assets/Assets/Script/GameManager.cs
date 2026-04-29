@@ -12,16 +12,16 @@ public class GameManager : MonoBehaviour
 
     public Animator animator;
 
-    public AudioSource audioSource;
-
     private Character character;
 
     void Start()
     {
         // int index = PlayerPrefs.GetInt("selectedOption");
-        int index = 5;
-
+        int index = 0;
         character = characterDB.GetCharacter(index);
+
+        // Animator
+        animator.runtimeAnimatorController =  character.animatorController;
 
         // UI
         portraitUI.sprite = character.characterPotrait;
@@ -35,35 +35,20 @@ public class GameManager : MonoBehaviour
     public void PlayIdle()
     {
         animator.Play("Idle");
-        // PlaySound(character.idleSound);
     }
 
     public void PlayRun()
     {
         animator.Play("Run");
-        // PlaySound(character.runSound);
     }
 
     public void PlayAttack()
     {
         animator.SetTrigger("Attack");
-        // PlaySound(character.attackSound);
     }
 
     public void PlaySkill()
     {
         animator.SetTrigger("Skill");
-        // PlaySound(character.skillSound);
-    }
-
-    void PlaySound(AudioClip clip)
-    {
-        audioSource.Stop();
-
-        if (clip != null)
-        {
-            audioSource.clip = clip;
-            audioSource.Play();
-        }
     }
 }

@@ -9,6 +9,8 @@ public class Character
     public Sprite characterSprite;
     public Sprite characterPotrait;
 
+    public RuntimeAnimatorController animatorController;
+
     [TextArea(3,5)]
     public string description;
 
