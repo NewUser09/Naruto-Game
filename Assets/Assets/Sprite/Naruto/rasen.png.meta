@@ -1,0 +1,308 @@
+fileFormatVersion: 2
+guid: 63700963079777148a56f57de2164aae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4122530827618394681
+    second: rasen_0
+  - first:
+      213: 8080275173070709881
+    second: rasen_1
+  - first:
+      213: 6946184608441053735
+    second: rasen_2
+  - first:
+      213: 3406945825569062176
+    second: rasen_3
+  - first:
+      213: -6843830636129719521
+    second: rasen_4
+  - first:
+      213: 153994135158091588
+    second: rasen_5
+  - first:
+      213: -2815415045145023080
+    second: rasen_6
+  - first:
+      213: -934184805272291934
+    second: rasen_7
+  - first:
+      213: -3846712802862769051
+    second: rasen_8
+  - first:
+      213: -5361388735001168561
+    second: rasen_9
+  - first:
+      213: 389817180541030257
+    second: rasen_10
+  - first:
+      213: 8957568842477766635
+    second: rasen_11
+  - first:
+      213: -2971215245826134138
+    second: rasen_12
+  - first:
+      213: 3167791201342861773
+    second: rasen_13
+  - first:
+      213: -2055158805179733494
+    second: rasen_14
+  - first:
+      213: -5246747100587879129
+    second: rasen_15
+  - first:
+      213: 4249066971911886390
+    second: rasen_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 60
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rasen_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35
+        width: 82
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932aac312fb263930800000000000000
+      internalID: 4122530827618394681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasen_1
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 18
+        width: 82
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974a9427577e22070800000000000000
+      internalID: 8080275173070709881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasen_3
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 16
+        width: 96
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d3b067d27e74f20800000000000000
+      internalID: 3406945825569062176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasen_4
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 14
+        width: 109
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b6d8eeb44d501a0800000000000000
+      internalID: -6843830636129719521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rasen_6
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 104
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d27d2eee2ade8d0800000000000000
+      internalID: -2815415045145023080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 00d5f914a0e296c4c89340de8818035a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      rasen_0: 4122530827618394681
+      rasen_1: 8080275173070709881
+      rasen_10: 389817180541030257
+      rasen_11: 8957568842477766635
+      rasen_12: -2971215245826134138
+      rasen_13: 3167791201342861773
+      rasen_14: -2055158805179733494
+      rasen_15: -5246747100587879129
+      rasen_16: 4249066971911886390
+      rasen_2: 6946184608441053735
+      rasen_3: 3406945825569062176
+      rasen_4: -6843830636129719521
+      rasen_5: 153994135158091588
+      rasen_6: -2815415045145023080
+      rasen_7: -934184805272291934
+      rasen_8: -3846712802862769051
+      rasen_9: -5361388735001168561
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -20,20 +20,20 @@ public class SceneController : MonoBehaviour
         if (SceneManager.GetActiveScene().name == "Home")
         {
             if (Input.GetKeyDown(KeyCode.Return))
-                LoadScene(1);
+                LoadScene(2);
 
             if (Input.GetKeyDown(KeyCode.Escape))
-                LoadScene(2);
+                LoadScene(3);
         }
 
         // PLAY
         if (SceneManager.GetActiveScene().name == "Play")
         {
             if (Input.GetKeyDown(KeyCode.Return))
-                LoadScene(3);
+                LoadScene(4);
 
             if (Input.GetKeyDown(KeyCode.Escape))
-                LoadScene(0);
+                LoadScene(1);
         }
 
         // EXIT
@@ -43,14 +43,14 @@ public class SceneController : MonoBehaviour
                 ExitGame();
 
             if (Input.GetKeyDown(KeyCode.Escape))
-                LoadScene(0);
+                LoadScene(1);
         }
 
         // GAME
         if (SceneManager.GetActiveScene().name == "Game")
         {
             if (Input.GetKeyDown(KeyCode.Escape))
-                LoadScene(1);
+                LoadScene(2);
         }
     }
 }

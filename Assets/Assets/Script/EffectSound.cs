@@ -6,6 +6,8 @@ public class EffectSound : MonoBehaviour
 
     public AudioClip run;
     public AudioClip attack1;
+    public AudioClip attack2;
+    public AudioClip attack3;
     public AudioClip kuwu;
     public AudioClip rasen;
      public AudioClip katon;
@@ -19,6 +21,17 @@ public class EffectSound : MonoBehaviour
     {
         audioSource.PlayOneShot(attack1);
     }
+
+        public void Attack2Sound()
+    {
+        audioSource.PlayOneShot(attack2);
+    }
+
+    public void Attack3Sound()
+    {
+        audioSource.PlayOneShot(attack3);
+    }
+
 
     public void KuwuSound()
     {
