@@ -145,10 +145,10 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 50
-        height: 60
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 196
+        height: 236
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -165,12 +165,12 @@ TextureImporter:
       name: kakashi_skill_1
       rect:
         serializedVersion: 2
-        x: 54
+        x: 220
         y: 0
-        width: 60
-        height: 65
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 232
+        height: 260
+      alignment: 9
+      pivot: {x: 0.45, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -187,12 +187,12 @@ TextureImporter:
       name: kakashi_skill_2
       rect:
         serializedVersion: 2
-        x: 118
+        x: 476
         y: 0
-        width: 66
-        height: 65
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.44, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -209,12 +209,12 @@ TextureImporter:
       name: kakashi_skill_3
       rect:
         serializedVersion: 2
-        x: 210
-        y: 30
-        width: 35
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 756
+        y: 8
+        width: 232
+        height: 244
+      alignment: 9
+      pivot: {x: 0.5, y: -0.05}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -231,12 +231,12 @@ TextureImporter:
       name: kakashi_skill_4
       rect:
         serializedVersion: 2
-        x: 219
-        y: 48
-        width: 29
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1008
+        y: 0
+        width: 396
+        height: 236
+      alignment: 9
+      pivot: {x: 0.36, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -249,121 +249,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: kakashi_skill_5
-      rect:
-        serializedVersion: 2
-        x: 251
-        y: 0
-        width: 100
-        height: 60
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bcd5a0cf89fdbddb0800000000000000
-      internalID: -4765969932484977205
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: kakashi_skill_6
-      rect:
-        serializedVersion: 2
-        x: 194
-        y: 13
-        width: 47
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 23459282437711240800000000000000
-      internalID: 4760717347003126834
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: kakashi_skill_7
-      rect:
-        serializedVersion: 2
-        x: 204
-        y: 22
-        width: 36
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 396d637adde2242e0800000000000000
-      internalID: -2143098943146895725
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: kakashi_skill_8
-      rect:
-        serializedVersion: 2
-        x: 188
-        y: 2
-        width: 17
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 91f4d9023228127f0800000000000000
-      internalID: -639086584727253223
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: kakashi_skill_9
-      rect:
-        serializedVersion: 2
-        x: 226
-        y: 1
-        width: 18
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d5c223b0d4e733d90800000000000000
-      internalID: -7119207716577203107
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 70c901c2dad66e2499b0e5bc84599422
     internalID: 0
     vertices: []
     indices: 
@@ -375,6 +265,14 @@ TextureImporter:
     nameFileIdTable:
       kakashi_skill_0: -7746765151243310523
       kakashi_skill_1: -6905359048423857009
+      kakashi_skill_10: 787329645
+      kakashi_skill_11: -568472091
+      kakashi_skill_12: 256423690
+      kakashi_skill_13: 1997623900
+      kakashi_skill_14: 33396984
+      kakashi_skill_15: -851137672
+      kakashi_skill_16: -112325744
+      kakashi_skill_17: -1383885221
       kakashi_skill_2: 2939451010235439793
       kakashi_skill_3: -100771695558371150
       kakashi_skill_4: 2858117039299262085

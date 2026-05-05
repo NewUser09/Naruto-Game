@@ -1,0 +1,524 @@
+fileFormatVersion: 2
+guid: 75d3ec997dbfee549b399915f88909cf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9171565261646239413
+    second: pain_attack_0
+  - first:
+      213: 1566451280008849017
+    second: pain_attack_1
+  - first:
+      213: 1954046063289072886
+    second: pain_attack_2
+  - first:
+      213: -1652266724452738567
+    second: pain_attack_3
+  - first:
+      213: -981812909004095485
+    second: pain_attack_4
+  - first:
+      213: 5828063656158574011
+    second: pain_attack_5
+  - first:
+      213: 1652866363246387877
+    second: pain_attack_6
+  - first:
+      213: 5666844708216907478
+    second: pain_attack_7
+  - first:
+      213: -7274715868063338540
+    second: pain_attack_8
+  - first:
+      213: 5738405990374604228
+    second: pain_attack_9
+  - first:
+      213: -6493193350800412405
+    second: pain_attack_10
+  - first:
+      213: -4721134003494075307
+    second: pain_attack_11
+  - first:
+      213: -4362454400024517315
+    second: pain_attack_12
+  - first:
+      213: -3509965250883774445
+    second: pain_attack_13
+  - first:
+      213: 2241736935391550668
+    second: pain_attack_14
+  - first:
+      213: -6198771330884981640
+    second: pain_attack_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 60
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pain_attack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 700
+        width: 252
+        height: 312
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b69cbe2302f74f70800000000000000
+      internalID: 9171565261646239413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pain_attack_2
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 700
+        width: 220
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc7815aa8a2e1b10800000000000000
+      internalID: 1954046063289072886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pain_attack_3
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 700
+        width: 268
+        height: 312
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f9dbce0b28f119e0800000000000000
+      internalID: -1652266724452738567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pain_attack_4
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 700
+        width: 244
+        height: 312
+      alignment: 9
+      pivot: {x: 0.32, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3000be27c56ef52f0800000000000000
+      internalID: -981812909004095485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pain_attack_5
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 700
+        width: 224
+        height: 268
+      alignment: 9
+      pivot: {x: 0.9, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb532b1540171e050800000000000000
+      internalID: 5828063656158574011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pain_attack_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 220
+        height: 268
+      alignment: 9
+      pivot: {x: 0.74, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a22e7a333920f610800000000000000
+      internalID: 1652866363246387877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pain_attack_7
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 360
+        width: 204
+        height: 304
+      alignment: 9
+      pivot: {x: 0.82, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d62296ec3da4ae40800000000000000
+      internalID: 5666844708216907478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pain_attack_8
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 360
+        width: 328
+        height: 236
+      alignment: 9
+      pivot: {x: 0.42, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dfef2a06740b0b90800000000000000
+      internalID: -7274715868063338540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pain_attack_9
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 360
+        width: 328
+        height: 200
+      alignment: 9
+      pivot: {x: 0.45, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd704948d9e2af40800000000000000
+      internalID: 5738405990374604228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pain_attack_10
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 360
+        width: 220
+        height: 268
+      alignment: 9
+      pivot: {x: 0.75, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01fc93cc0b83e5a0800000000000000
+      internalID: -6493193350800412405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pain_attack_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 188
+        height: 324
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 554c7b033a92b7eb0800000000000000
+      internalID: -4721134003494075307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pain_attack_12
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 56
+        width: 304
+        height: 268
+      alignment: 9
+      pivot: {x: 0.25, y: -0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d35e2b126d27573c0800000000000000
+      internalID: -4362454400024517315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pain_attack_13
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 56
+        width: 264
+        height: 268
+      alignment: 9
+      pivot: {x: 0.25, y: -0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3189b1f63391a4fc0800000000000000
+      internalID: -3509965250883774445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pain_attack_14
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 0
+        width: 224
+        height: 268
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cccd2e19ddf3c1f10800000000000000
+      internalID: 2241736935391550668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pain_attack_15
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 0
+        width: 220
+        height: 268
+      alignment: 9
+      pivot: {x: 0.32, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ca9ba215a89f9a0800000000000000
+      internalID: -6198771330884981640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b533d59056f015e44834f5522627f57c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pain_attack_0: 9171565261646239413
+      pain_attack_1: 1566451280008849017
+      pain_attack_10: -6493193350800412405
+      pain_attack_11: -4721134003494075307
+      pain_attack_12: -4362454400024517315
+      pain_attack_13: -3509965250883774445
+      pain_attack_14: 2241736935391550668
+      pain_attack_15: -6198771330884981640
+      pain_attack_2: 1954046063289072886
+      pain_attack_3: -1652266724452738567
+      pain_attack_4: -981812909004095485
+      pain_attack_5: 5828063656158574011
+      pain_attack_6: 1652866363246387877
+      pain_attack_7: 5666844708216907478
+      pain_attack_8: -7274715868063338540
+      pain_attack_9: 5738405990374604228
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

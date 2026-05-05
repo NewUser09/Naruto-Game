@@ -1,0 +1,619 @@
+fileFormatVersion: 2
+guid: 55c96e7f83edc254bb926c32b2d62289
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3760906203152125300
+    second: suigetsu_attack_0
+  - first:
+      213: -206672669596801867
+    second: suigetsu_attack_1
+  - first:
+      213: 5947214882349569732
+    second: suigetsu_attack_2
+  - first:
+      213: 2470230775277705353
+    second: suigetsu_attack_3
+  - first:
+      213: -5395662398283376122
+    second: suigetsu_attack_4
+  - first:
+      213: 1166332632104721287
+    second: suigetsu_attack_5
+  - first:
+      213: 8115365676346840274
+    second: suigetsu_attack_6
+  - first:
+      213: 4143966413964499352
+    second: suigetsu_attack_7
+  - first:
+      213: 8713126859713781244
+    second: suigetsu_attack_8
+  - first:
+      213: -7692839679688002653
+    second: suigetsu_attack_9
+  - first:
+      213: -1701595653888792016
+    second: suigetsu_attack_10
+  - first:
+      213: 8247628468023595851
+    second: suigetsu_attack_11
+  - first:
+      213: 8423673452085787871
+    second: suigetsu_attack_12
+  - first:
+      213: -5774415960683512422
+    second: suigetsu_attack_13
+  - first:
+      213: -5618318828365497287
+    second: suigetsu_attack_14
+  - first:
+      213: 2664087272570296463
+    second: suigetsu_attack_15
+  - first:
+      213: 4651010605034234380
+    second: suigetsu_attack_16
+  - first:
+      213: 6287332898540977766
+    second: suigetsu_attack_17
+  - first:
+      213: -499017404373748574
+    second: suigetsu_attack_18
+  - first:
+      213: 398305487260272222
+    second: suigetsu_attack_19
+  - first:
+      213: -4011537744053290152
+    second: suigetsu_attack_20
+  - first:
+      213: -8415809071516562286
+    second: suigetsu_attack_21
+  - first:
+      213: 5997700774669379688
+    second: suigetsu_attack_22
+  - first:
+      213: 6128205468180006430
+    second: suigetsu_attack_23
+  - first:
+      213: -1219285394419624266
+    second: suigetsu_attack_24
+  - first:
+      213: 3481284697893252921
+    second: suigetsu_attack_25
+  - first:
+      213: 1743126596698432489
+    second: suigetsu_attack_26
+  - first:
+      213: 5302875321859996172
+    second: suigetsu_attack_27
+  - first:
+      213: -7574539075584235754
+    second: suigetsu_attack_28
+  - first:
+      213: -637203696616412656
+    second: suigetsu_attack_29
+  - first:
+      213: 3755170174682490069
+    second: suigetsu_attack_30
+  - first:
+      213: 8336225719754845764
+    second: suigetsu_attack_31
+  - first:
+      213: 647877338851514729
+    second: suigetsu_attack_32
+  - first:
+      213: -8891777419121795949
+    second: suigetsu_attack_33
+  - first:
+      213: 556444625595722831
+    second: suigetsu_attack_34
+  - first:
+      213: -6848256509723122099
+    second: suigetsu_attack_35
+  - first:
+      213: -3498003086505379497
+    second: suigetsu_attack_36
+  - first:
+      213: 1626538338272035058
+    second: suigetsu_attack_37
+  - first:
+      213: 3156706066349277776
+    second: suigetsu_attack_38
+  - first:
+      213: 959884381836472560
+    second: suigetsu_attack_39
+  - first:
+      213: -1194160236622524826
+    second: suigetsu_attack_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 60
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: suigetsu_attack_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 784
+        width: 192
+        height: 288
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6dc510d60c88250800000000000000
+      internalID: 5947214882349569732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suigetsu_attack_3
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 784
+        width: 200
+        height: 288
+      alignment: 9
+      pivot: {x: 0.52, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9885aa16dc5084220800000000000000
+      internalID: 2470230775277705353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suigetsu_attack_8
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 780
+        width: 264
+        height: 304
+      alignment: 9
+      pivot: {x: 0.53, y: 0.015}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd972cf6be3be870800000000000000
+      internalID: 8713126859713781244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suigetsu_attack_4
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 784
+        width: 320
+        height: 240
+      alignment: 9
+      pivot: {x: 0.29, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a2c9aa4c7b268e0800000000000000
+      internalID: -1701595653888792016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suigetsu_attack_12
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 784
+        width: 252
+        height: 308
+      alignment: 9
+      pivot: {x: 0.58, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc3677cf56e6e470800000000000000
+      internalID: 8423673452085787871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suigetsu_attack_18
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 324
+        width: 224
+        height: 372
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a4b09b80522319f0800000000000000
+      internalID: -499017404373748574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suigetsu_attack_21
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 324
+        width: 212
+        height: 428
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29cceb20d3a053b80800000000000000
+      internalID: -8415809071516562286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suigetsu_attack_15
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 324
+        width: 200
+        height: 252
+      alignment: 9
+      pivot: {x: 0.28, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b6dbc1d46a341fe0800000000000000
+      internalID: -1219285394419624266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suigetsu_attack_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 324
+        width: 196
+        height: 240
+      alignment: 9
+      pivot: {x: 0.46, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e3eeba7764d03810800000000000000
+      internalID: 1743126596698432489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suigetsu_attack_14
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 324
+        width: 208
+        height: 220
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6176c76a7d4d1e690800000000000000
+      internalID: -7574539075584235754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suigetsu_attack_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 196
+        height: 276
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e6679ff1930b370800000000000000
+      internalID: 8336225719754845764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suigetsu_attack_33
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 228
+        height: 280
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39cd7674c8f0a9480800000000000000
+      internalID: -8891777419121795949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suigetsu_attack_34
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 0
+        width: 324
+        height: 264
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ceec55073e8b700800000000000000
+      internalID: 556444625595722831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suigetsu_attack_35
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 0
+        width: 392
+        height: 244
+      alignment: 9
+      pivot: {x: 0.22, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46623fecfa16f0a0800000000000000
+      internalID: -6848256509723122099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suigetsu_attack_36
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 0
+        width: 176
+        height: 284
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75970add9b8947fc0800000000000000
+      internalID: -3498003086505379497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 439a2d6c34c1e3149a595d5a3f7a90d2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      suigetsu_attack_0: 3760906203152125300
+      suigetsu_attack_11: 8247628468023595851
+      suigetsu_attack_12: 8423673452085787871
+      suigetsu_attack_13: 1743126596698432489
+      suigetsu_attack_14: -7574539075584235754
+      suigetsu_attack_15: -1219285394419624266
+      suigetsu_attack_16: 4651010605034234380
+      suigetsu_attack_17: 6287332898540977766
+      suigetsu_attack_18: -499017404373748574
+      suigetsu_attack_19: 398305487260272222
+      suigetsu_attack_2: 5947214882349569732
+      suigetsu_attack_20: -4011537744053290152
+      suigetsu_attack_21: -8415809071516562286
+      suigetsu_attack_22: 5997700774669379688
+      suigetsu_attack_23: 6128205468180006430
+      suigetsu_attack_25: 3481284697893252921
+      suigetsu_attack_27: 5302875321859996172
+      suigetsu_attack_29: -637203696616412656
+      suigetsu_attack_3: 2470230775277705353
+      suigetsu_attack_30: 3755170174682490069
+      suigetsu_attack_31: 8336225719754845764
+      suigetsu_attack_32: 647877338851514729
+      suigetsu_attack_33: -8891777419121795949
+      suigetsu_attack_34: 556444625595722831
+      suigetsu_attack_35: -6848256509723122099
+      suigetsu_attack_36: -3498003086505379497
+      suigetsu_attack_37: 1626538338272035058
+      suigetsu_attack_38: 3156706066349277776
+      suigetsu_attack_39: 959884381836472560
+      suigetsu_attack_4: -1701595653888792016
+      suigetsu_attack_40: -1194160236622524826
+      suigetsu_attack_5: 1166332632104721287
+      suigetsu_attack_6: 8115365676346840274
+      suigetsu_attack_7: 4143966413964499352
+      suigetsu_attack_8: 8713126859713781244
+      suigetsu_attack_9: -7692839679688002653
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

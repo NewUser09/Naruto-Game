@@ -131,37 +131,15 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: raikiri_effect_0
+      name: raikiri_effect_1
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 15
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7dc523bae6a4b25f0800000000000000
-      internalID: -780448271239586601
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: raikiri_effect_1
-      rect:
-        serializedVersion: 2
-        x: 7
-        y: 1
-        width: 52
-        height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 288
+        height: 172
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -175,81 +153,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: raikiri_effect_2
-      rect:
-        serializedVersion: 2
-        x: 59
-        y: 0
-        width: 14
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 05bbe3c405ebb3b60800000000000000
-      internalID: 7726978837770058576
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: raikiri_effect_3
-      rect:
-        serializedVersion: 2
-        x: 93
-        y: 0
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 859bdb0e62126cf70800000000000000
-      internalID: 9207082939068561752
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: raikiri_effect_4
-      rect:
-        serializedVersion: 2
-        x: 106
-        y: 1
-        width: 43
-        height: 38
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e1f601d71b4c362a0800000000000000
-      internalID: -6745331550284386530
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: raikiri_effect_5
       rect:
         serializedVersion: 2
-        x: 145
-        y: 2
-        width: 20
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 377
+        y: 0
+        width: 280
+        height: 152
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -263,23 +175,23 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: raikiri_effect_6
+      name: raikiri_effect_7
       rect:
         serializedVersion: 2
-        x: 181
-        y: 6
-        width: 38
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 728
+        y: 28
+        width: 148
+        height: 128
+      alignment: 9
+      pivot: {x: 0.55, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 288655349907d2f80800000000000000
-      internalID: -8129717948771899262
+      spriteID: 694369c4ebd7e3a4ab975a5e5974b980
+      internalID: 1420694727
       vertices: []
       indices: 
       edges: []
@@ -288,7 +200,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: b648d1c2502fa7f4582409422cb31370
     internalID: 0
     vertices: []
     indices: 
@@ -305,6 +217,8 @@ TextureImporter:
       raikiri_effect_4: -6745331550284386530
       raikiri_effect_5: 208724289377609585
       raikiri_effect_6: -8129717948771899262
+      raikiri_effect_7: 1420694727
+      raikiri_effect_8: -2012902265
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

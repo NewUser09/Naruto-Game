@@ -181,9 +181,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 603
-        width: 209
-        height: 270
+        y: 644
+        width: 212
+        height: 272
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -202,10 +202,10 @@ TextureImporter:
       name: itachi_attack_1
       rect:
         serializedVersion: 2
-        x: 219
-        y: 603
-        width: 178
-        height: 297
+        x: 236
+        y: 644
+        width: 176
+        height: 304
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -224,12 +224,12 @@ TextureImporter:
       name: itachi_attack_2
       rect:
         serializedVersion: 2
-        x: 407
-        y: 603
-        width: 326
-        height: 297
+        x: 436
+        y: 644
+        width: 332
+        height: 308
       alignment: 9
-      pivot: {x: 0.4, y: 0}
+      pivot: {x: 0.25, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -246,10 +246,10 @@ TextureImporter:
       name: itachi_attack_3
       rect:
         serializedVersion: 2
-        x: 743
-        y: 603
-        width: 198
-        height: 250
+        x: 792
+        y: 644
+        width: 324
+        height: 272
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -268,10 +268,10 @@ TextureImporter:
       name: itachi_attack_5
       rect:
         serializedVersion: 2
-        x: 1071
-        y: 603
-        width: 146
-        height: 282
+        x: 1140
+        y: 644
+        width: 144
+        height: 284
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -291,9 +291,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 303
-        width: 149
-        height: 261
+        y: 324
+        width: 148
+        height: 264
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -312,10 +312,10 @@ TextureImporter:
       name: itachi_attack_7
       rect:
         serializedVersion: 2
-        x: 159
-        y: 303
-        width: 294
-        height: 267
+        x: 172
+        y: 324
+        width: 300
+        height: 272
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -334,10 +334,10 @@ TextureImporter:
       name: itachi_attack_8
       rect:
         serializedVersion: 2
-        x: 463
-        y: 303
-        width: 293
-        height: 265
+        x: 496
+        y: 324
+        width: 300
+        height: 268
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -356,10 +356,10 @@ TextureImporter:
       name: itachi_attack_9
       rect:
         serializedVersion: 2
-        x: 767
-        y: 303
-        width: 258
-        height: 267
+        x: 820
+        y: 324
+        width: 260
+        height: 272
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -378,10 +378,10 @@ TextureImporter:
       name: itachi_attack_10
       rect:
         serializedVersion: 2
-        x: 1036
-        y: 303
-        width: 141
-        height: 286
+        x: 1104
+        y: 324
+        width: 136
+        height: 292
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -402,8 +402,8 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 141
-        height: 269
+        width: 140
+        height: 276
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -422,10 +422,10 @@ TextureImporter:
       name: itachi_attack_12
       rect:
         serializedVersion: 2
-        x: 151
+        x: 164
         y: 0
-        width: 174
-        height: 265
+        width: 172
+        height: 272
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -444,10 +444,10 @@ TextureImporter:
       name: itachi_attack_13
       rect:
         serializedVersion: 2
-        x: 335
+        x: 360
         y: 0
-        width: 174
-        height: 269
+        width: 172
+        height: 276
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -466,10 +466,10 @@ TextureImporter:
       name: itachi_attack_14
       rect:
         serializedVersion: 2
-        x: 519
+        x: 556
         y: 0
-        width: 237
-        height: 261
+        width: 240
+        height: 268
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -488,10 +488,10 @@ TextureImporter:
       name: itachi_attack_15
       rect:
         serializedVersion: 2
-        x: 767
+        x: 820
         y: 0
-        width: 246
-        height: 265
+        width: 244
+        height: 272
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -510,10 +510,10 @@ TextureImporter:
       name: itachi_attack_16
       rect:
         serializedVersion: 2
-        x: 1024
+        x: 1088
         y: 0
-        width: 241
-        height: 225
+        width: 244
+        height: 228
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -532,10 +532,10 @@ TextureImporter:
       name: itachi_attack_17
       rect:
         serializedVersion: 2
-        x: 1275
+        x: 1356
         y: 0
-        width: 153
-        height: 293
+        width: 156
+        height: 300
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -546,28 +546,6 @@ TextureImporter:
       bones: []
       spriteID: 53bc10cbf907d4d40800000000000000
       internalID: 5570232145483516725
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: itachi_attack_4
-      rect:
-        serializedVersion: 2
-        x: 919
-        y: 739
-        width: 142
-        height: 134
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: af60e2ab26201a14294cf7691d09e831
-      internalID: 4557296680436322451
       vertices: []
       indices: 
       edges: []

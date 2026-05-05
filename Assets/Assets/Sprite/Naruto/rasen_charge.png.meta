@@ -168,63 +168,63 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-        width: 106
-        height: 100
+        y: 4
+        width: 124
+        height: 92
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 303b3d1cb4da5f4a0800000000000000
+      spriteID: a32f4ec792ea6d34a9fd43b5ca0bcdae
       internalID: -6560146741309230333
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: rasen_charge_6
+      name: rasen_charge_2
       rect:
         serializedVersion: 2
-        x: 157
+        x: 184
         y: 0
-        width: 136
-        height: 99
+        width: 156
+        height: 96
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 82af7cbcf5f6247f0800000000000000
-      internalID: -629818540646991320
+      spriteID: f8527807be405474cad693ac65b38736
+      internalID: -584794330477836324
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: rasen_charge_8
+      name: rasen_charge_12
       rect:
         serializedVersion: 2
-        x: 348
+        x: 408
         y: 0
-        width: 128
-        height: 100
+        width: 148
+        height: 96
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 4f596f171a250ec20800000000000000
-      internalID: 3233675385807214068
+      spriteID: dd0a4adfba700fa4aa192af40ed004c5
+      internalID: 1635128943529894578
       vertices: []
       indices: 
       edges: []
@@ -249,10 +249,6 @@ TextureImporter:
       rasen_charge_11: 8242428587286798401
       rasen_charge_12: 1635128943529894578
       rasen_charge_13: -7727069389571295707
-      rasen_charge_14: -3149122509038657559
-      rasen_charge_15: 8524236598329549065
-      rasen_charge_16: -6762594411171767102
-      rasen_charge_17: 2863335988301069897
       rasen_charge_2: -584794330477836324
       rasen_charge_3: 530279663233198049
       rasen_charge_4: -9133365102000528388

@@ -1,0 +1,489 @@
+fileFormatVersion: 2
+guid: 813373872979af54aa3f28c06f8883a2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7518594995824583049
+    second: shanaru_0
+  - first:
+      213: -6707992321882017103
+    second: shanaru_1
+  - first:
+      213: -2599564730112722709
+    second: shanaru_2
+  - first:
+      213: 4450062585348356867
+    second: shanaru_3
+  - first:
+      213: 500218970210018984
+    second: shanaru_4
+  - first:
+      213: 4643233286107959105
+    second: shanaru_5
+  - first:
+      213: -5682184246232911991
+    second: shanaru_6
+  - first:
+      213: 9048498661808048371
+    second: shanaru_7
+  - first:
+      213: -5226666828568654737
+    second: shanaru_8
+  - first:
+      213: 3848766033780335983
+    second: shanaru_9
+  - first:
+      213: -2583621234488157778
+    second: shanaru_10
+  - first:
+      213: 1717413558068825363
+    second: shanaru_11
+  - first:
+      213: 1343047905765385431
+    second: shanaru_12
+  - first:
+      213: -2390184424102620123
+    second: shanaru_13
+  - first:
+      213: -4040512799203272615
+    second: shanaru_14
+  - first:
+      213: 2885040947440458170
+    second: shanaru_15
+  - first:
+      213: 9079718035128256070
+    second: shanaru_16
+  - first:
+      213: -982529496416520062
+    second: shanaru_17
+  - first:
+      213: -7584147755906525492
+    second: shanaru_18
+  - first:
+      213: 1193414748124948399
+    second: shanaru_19
+  - first:
+      213: -8120867268136096901
+    second: shanaru_20
+  - first:
+      213: 3714726760961536216
+    second: shanaru_21
+  - first:
+      213: -3939678652901046772
+    second: shanaru_22
+  - first:
+      213: -1694736212821361066
+    second: shanaru_23
+  - first:
+      213: -9203006695383430557
+    second: shanaru_24
+  - first:
+      213: -668389162473729462
+    second: shanaru_25
+  - first:
+      213: 8335099095735010951
+    second: shanaru_26
+  - first:
+      213: -8309852480139952668
+    second: shanaru_27
+  - first:
+      213: -135032416012013716
+    second: shanaru_28
+  - first:
+      213: -4139646233356670155
+    second: shanaru_29
+  - first:
+      213: -6671583975705066823
+    second: shanaru_30
+  - first:
+      213: 4849391643518922464
+    second: shanaru_31
+  - first:
+      213: 3345609240627832732
+    second: shanaru_32
+  - first:
+      213: 4084198164930046495
+    second: shanaru_33
+  - first:
+      213: -495152327151897987
+    second: shanaru_34
+  - first:
+      213: -6056290203970294629
+    second: shanaru_35
+  - first:
+      213: -2460423681744706458
+    second: shanaru_36
+  - first:
+      213: -2232371802740031122
+    second: shanaru_37
+  - first:
+      213: -8473423726449160655
+    second: shanaru_38
+  - first:
+      213: 1826294131571315113
+    second: shanaru_39
+  - first:
+      213: -4826844964637510617
+    second: shanaru_40
+  - first:
+      213: -3772866997605549910
+    second: shanaru_41
+  - first:
+      213: -5953678493904516770
+    second: shanaru_42
+  - first:
+      213: 9144989667858107232
+    second: shanaru_43
+  - first:
+      213: 3310788580248673780
+    second: shanaru_44
+  - first:
+      213: -8219701808235731558
+    second: shanaru_45
+  - first:
+      213: 3107245831258530895
+    second: shanaru_46
+  - first:
+      213: -7621132902983694931
+    second: shanaru_47
+  - first:
+      213: 3272584532625174299
+    second: shanaru_48
+  - first:
+      213: 7520996672037864353
+    second: shanaru_49
+  - first:
+      213: -9188424302584652719
+    second: shanaru_50
+  - first:
+      213: 5762605536476468600
+    second: shanaru_51
+  - first:
+      213: 8964171648544852095
+    second: shanaru_52
+  - first:
+      213: -1405298268448663772
+    second: shanaru_53
+  - first:
+      213: -7030577542289487745
+    second: shanaru_54
+  - first:
+      213: -5253675456137020363
+    second: shanaru_55
+  - first:
+      213: -3972143020923332634
+    second: shanaru_56
+  - first:
+      213: 9143554863059103619
+    second: shanaru_57
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 60
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shanaru_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 320
+        height: 116
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c09d326362777b0800000000000000
+      internalID: -5226666828568654737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shanaru_3
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 140
+        width: 496
+        height: 156
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52411b51eeb54ded0800000000000000
+      internalID: -2390184424102620123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shanaru_2
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 140
+        width: 400
+        height: 168
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc69d1d6cc1bfb690800000000000000
+      internalID: -7584147755906525492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shanaru_4
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 140
+        width: 552
+        height: 121
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee61b0b1008c4340800000000000000
+      internalID: 4849391643518922464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shanaru_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 540
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f78c421ce92276c70800000000000000
+      internalID: 8964171648544852095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shanaru_6
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 0
+        width: 520
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38feeec04be64ee70800000000000000
+      internalID: 9143554863059103619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f08cea81c3c54b44b882ce33f7bcfbcf
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      shanaru_0: -7518594995824583049
+      shanaru_1: -5226666828568654737
+      shanaru_10: -2583621234488157778
+      shanaru_11: 1717413558068825363
+      shanaru_12: 1343047905765385431
+      shanaru_14: -4040512799203272615
+      shanaru_15: 2885040947440458170
+      shanaru_16: 9079718035128256070
+      shanaru_17: -982529496416520062
+      shanaru_19: 1193414748124948399
+      shanaru_2: -7584147755906525492
+      shanaru_20: -8120867268136096901
+      shanaru_21: 3714726760961536216
+      shanaru_22: -3939678652901046772
+      shanaru_23: -1694736212821361066
+      shanaru_24: -9203006695383430557
+      shanaru_25: -668389162473729462
+      shanaru_26: 8335099095735010951
+      shanaru_27: -8309852480139952668
+      shanaru_28: -135032416012013716
+      shanaru_29: -4139646233356670155
+      shanaru_3: -2390184424102620123
+      shanaru_30: -6671583975705066823
+      shanaru_32: 3345609240627832732
+      shanaru_33: 4084198164930046495
+      shanaru_34: -495152327151897987
+      shanaru_35: -6056290203970294629
+      shanaru_36: -2460423681744706458
+      shanaru_37: -2232371802740031122
+      shanaru_38: -8473423726449160655
+      shanaru_39: 1826294131571315113
+      shanaru_4: 4849391643518922464
+      shanaru_40: -4826844964637510617
+      shanaru_41: -3772866997605549910
+      shanaru_42: -5953678493904516770
+      shanaru_43: 9144989667858107232
+      shanaru_44: 3310788580248673780
+      shanaru_45: -8219701808235731558
+      shanaru_46: 3107245831258530895
+      shanaru_47: -7621132902983694931
+      shanaru_48: 3272584532625174299
+      shanaru_49: 7520996672037864353
+      shanaru_5: 8964171648544852095
+      shanaru_50: -9188424302584652719
+      shanaru_51: 5762605536476468600
+      shanaru_53: -1405298268448663772
+      shanaru_54: -7030577542289487745
+      shanaru_55: -5253675456137020363
+      shanaru_56: -3972143020923332634
+      shanaru_58: -1893991715
+      shanaru_6: 9143554863059103619
+      shanaru_7: 9048498661808048371
+      shanaru_9: 3848766033780335983
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

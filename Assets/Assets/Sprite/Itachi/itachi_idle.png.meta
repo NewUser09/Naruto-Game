@@ -139,8 +139,8 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 128
-        height: 308
+        width: 124
+        height: 320
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -159,12 +159,12 @@ TextureImporter:
       name: itachi_idle_1
       rect:
         serializedVersion: 2
-        x: 137
+        x: 148
         y: 0
-        width: 143
-        height: 308
+        width: 136
+        height: 320
       alignment: 9
-      pivot: {x: 0.47, y: 0}
+      pivot: {x: 0.455, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -181,12 +181,12 @@ TextureImporter:
       name: itachi_idle_2
       rect:
         serializedVersion: 2
-        x: 289
+        x: 308
         y: 0
-        width: 142
-        height: 308
+        width: 136
+        height: 320
       alignment: 9
-      pivot: {x: 0.41, y: 0}
+      pivot: {x: 0.395, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -203,12 +203,12 @@ TextureImporter:
       name: itachi_idle_3
       rect:
         serializedVersion: 2
-        x: 439
+        x: 468
         y: 0
-        width: 141
-        height: 308
+        width: 136
+        height: 320
       alignment: 9
-      pivot: {x: 0.48, y: 0}
+      pivot: {x: 0.455, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -225,12 +225,12 @@ TextureImporter:
       name: itachi_idle_4
       rect:
         serializedVersion: 2
-        x: 589
+        x: 628
         y: 0
-        width: 131
-        height: 308
-      alignment: 9
-      pivot: {x: 0.52, y: 0}
+        width: 124
+        height: 320
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -247,12 +247,12 @@ TextureImporter:
       name: itachi_idle_5
       rect:
         serializedVersion: 2
-        x: 729
+        x: 776
         y: 0
-        width: 147
-        height: 308
+        width: 140
+        height: 320
       alignment: 9
-      pivot: {x: 0.56, y: 0}
+      pivot: {x: 0.556, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -269,12 +269,12 @@ TextureImporter:
       name: itachi_idle_6
       rect:
         serializedVersion: 2
-        x: 885
+        x: 940
         y: 0
-        width: 135
-        height: 308
+        width: 136
+        height: 320
       alignment: 9
-      pivot: {x: 0.55, y: 0}
+      pivot: {x: 0.514, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -283,28 +283,6 @@ TextureImporter:
       bones: []
       spriteID: 1f2a8853c5c23c550800000000000000
       internalID: 6179831888229212913
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: itachi_idle_7
-      rect:
-        serializedVersion: 2
-        x: 885
-        y: 131
-        width: 4
-        height: 4
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0722a0f6629fde940800000000000000
-      internalID: 5327187877716173424
       vertices: []
       indices: 
       edges: []
@@ -330,7 +308,6 @@ TextureImporter:
       itachi_idle_4: 4432882645966804452
       itachi_idle_5: 7007140287465803387
       itachi_idle_6: 6179831888229212913
-      itachi_idle_7: 5327187877716173424
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

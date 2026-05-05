@@ -72,7 +72,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 60
+  spritePixelsToUnits: 45
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -138,9 +138,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 55
-        width: 37
-        height: 23
+        y: 64
+        width: 32
+        height: 12
       alignment: 4
       pivot: {x: 0, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -156,35 +156,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: katon_1
-      rect:
-        serializedVersion: 2
-        x: 71
-        y: 36
-        width: 85
-        height: 48
-      alignment: 4
-      pivot: {x: 0, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3a899308afb5244b0800000000000000
-      internalID: -5457698666968409949
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: katon_2
       rect:
         serializedVersion: 2
-        x: 191
-        y: 3
-        width: 149
-        height: 114
+        x: 80
+        y: 44
+        width: 76
+        height: 40
       alignment: 4
       pivot: {x: 0, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -200,35 +178,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: katon_3
-      rect:
-        serializedVersion: 2
-        x: 379
-        y: 0
-        width: 238
-        height: 144
-      alignment: 4
-      pivot: {x: 0, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 34bf39f6599af3ea0800000000000000
-      internalID: -5890803328290129085
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: katon_4
       rect:
         serializedVersion: 2
-        x: 659
-        y: 0
-        width: 254
-        height: 152
+        x: 208
+        y: 8
+        width: 144
+        height: 108
       alignment: 4
       pivot: {x: 0, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -247,10 +203,10 @@ TextureImporter:
       name: katon_5
       rect:
         serializedVersion: 2
-        x: 955
+        x: 408
         y: 0
-        width: 245
-        height: 152
+        width: 236
+        height: 144
       alignment: 4
       pivot: {x: 0, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -269,10 +225,10 @@ TextureImporter:
       name: katon_6
       rect:
         serializedVersion: 2
-        x: 1231
+        x: 704
         y: 0
-        width: 247
-        height: 152
+        width: 256
+        height: 156
       alignment: 4
       pivot: {x: 0, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -288,12 +244,56 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: katon_7
+      name: katon_8
       rect:
         serializedVersion: 2
-        x: 1519
+        x: 1016
         y: 0
-        width: 217
+        width: 248
+        height: 160
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90c67a161396094ab6fb22ba3a8d91c
+      internalID: 787044857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katon_10
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 0
+        width: 252
+        height: 160
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6210843290226854f84ac536f3314cf4
+      internalID: -875410149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katon_11
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 0
+        width: 224
         height: 144
       alignment: 4
       pivot: {x: 0, y: 0.5}
@@ -301,10 +301,10 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b6f3227d077c8cbf0800000000000000
-      internalID: -303773687387898005
+      spriteID: e1d823289f963e1449a237d1031de936
+      internalID: 1270746763
       vertices: []
       indices: 
       edges: []
@@ -325,12 +325,18 @@ TextureImporter:
     nameFileIdTable:
       katon_0: -2107824733175891033
       katon_1: -5457698666968409949
+      katon_10: -875410149
+      katon_11: 1270746763
+      katon_12: 206333317
+      katon_13: 1978989960
       katon_2: -8567168994939574814
       katon_3: -5890803328290129085
       katon_4: 7813690352123420514
       katon_5: 7511171453015042040
       katon_6: -54055709394564462
       katon_7: -303773687387898005
+      katon_8: 787044857
+      katon_9: -403578751
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: 1d0b3a0e198cfb54e94fc4ed96d15c7b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4525204910202423972
+    second: jiraiya_attack_0
+  - first:
+      213: 6261024421291242070
+    second: jiraiya_attack_1
+  - first:
+      213: -1573708429715568908
+    second: jiraiya_attack_2
+  - first:
+      213: -4115780526485990796
+    second: jiraiya_attack_3
+  - first:
+      213: 1006070584384192498
+    second: jiraiya_attack_4
+  - first:
+      213: 1725736310945769133
+    second: jiraiya_attack_5
+  - first:
+      213: -4220664258463998764
+    second: jiraiya_attack_6
+  - first:
+      213: -4927191976532821625
+    second: jiraiya_attack_7
+  - first:
+      213: 5218403946367768579
+    second: jiraiya_attack_8
+  - first:
+      213: -643734159243395615
+    second: jiraiya_attack_9
+  - first:
+      213: 1361654401739192629
+    second: jiraiya_attack_10
+  - first:
+      213: -3462699811319584047
+    second: jiraiya_attack_11
+  - first:
+      213: 994214194199990756
+    second: jiraiya_attack_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 60
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jiraiya_attack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 404
+        width: 212
+        height: 297
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c55f7871c1e3331c0800000000000000
+      internalID: -4525204910202423972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiraiya_attack_1
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 404
+        width: 308
+        height: 300
+      alignment: 9
+      pivot: {x: 0.57, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6523c11f980a3e650800000000000000
+      internalID: 6261024421291242070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiraiya_attack_2
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 404
+        width: 240
+        height: 297
+      alignment: 9
+      pivot: {x: 0.68, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f604c26580192ae0800000000000000
+      internalID: -1573708429715568908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiraiya_attack_3
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 404
+        width: 400
+        height: 308
+      alignment: 9
+      pivot: {x: 0.59, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4721551ea6fc1e6c0800000000000000
+      internalID: -4115780526485990796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiraiya_attack_4
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 404
+        width: 332
+        height: 304
+      alignment: 9
+      pivot: {x: 0.61, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff7039bdd746fd00800000000000000
+      internalID: 1006070584384192498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiraiya_attack_5
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 404
+        width: 204
+        height: 352
+      alignment: 9
+      pivot: {x: 0.6, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da66aed080c03f710800000000000000
+      internalID: 1725736310945769133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiraiya_attack_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 308
+        height: 304
+      alignment: 9
+      pivot: {x: 0.67, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dcd01e08303d65c0800000000000000
+      internalID: -4220664258463998764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiraiya_attack_7
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 0
+        width: 301
+        height: 301
+      alignment: 9
+      pivot: {x: 0.72, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7893b92b0091f9bb0800000000000000
+      internalID: -4927191976532821625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiraiya_attack_8
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 0
+        width: 408
+        height: 336
+      alignment: 9
+      pivot: {x: 0.63, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3085fbdadbe7b6840800000000000000
+      internalID: 5218403946367768579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiraiya_attack_9
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 0
+        width: 444
+        height: 332
+      alignment: 9
+      pivot: {x: 0.525, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed338c513ff017f0800000000000000
+      internalID: -643734159243395615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiraiya_attack_10
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 0
+        width: 320
+        height: 336
+      alignment: 9
+      pivot: {x: 0.405, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 539f28ac67195e210800000000000000
+      internalID: 1361654401739192629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiraiya_attack_11
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 0
+        width: 268
+        height: 368
+      alignment: 9
+      pivot: {x: 0.47, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1daeb762ed402ffc0800000000000000
+      internalID: -3462699811319584047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jiraiya_attack_12
+      rect:
+        serializedVersion: 2
+        x: 2192
+        y: 0
+        width: 284
+        height: 356
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e111f3ca882ccd00800000000000000
+      internalID: 994214194199990756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ed120d258eff9be4b873765e4fe1bf3d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      jiraiya_attack_0: -4525204910202423972
+      jiraiya_attack_1: 6261024421291242070
+      jiraiya_attack_10: 1361654401739192629
+      jiraiya_attack_11: -3462699811319584047
+      jiraiya_attack_12: 994214194199990756
+      jiraiya_attack_2: -1573708429715568908
+      jiraiya_attack_3: -4115780526485990796
+      jiraiya_attack_4: 1006070584384192498
+      jiraiya_attack_5: 1725736310945769133
+      jiraiya_attack_6: -4220664258463998764
+      jiraiya_attack_7: -4927191976532821625
+      jiraiya_attack_8: 5218403946367768579
+      jiraiya_attack_9: -643734159243395615
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -138,11 +138,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 23
-        width: 31
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        y: 98
+        width: 120
+        height: 96
+      alignment: 9
+      pivot: {x: 0.53, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -159,12 +159,12 @@ TextureImporter:
       name: raikiri_1
       rect:
         serializedVersion: 2
-        x: 46
-        y: 21
-        width: 47
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 180
+        y: 0
+        width: 188
+        height: 188
+      alignment: 9
+      pivot: {x: 0.7, y: 0.75}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -181,12 +181,12 @@ TextureImporter:
       name: raikiri_2
       rect:
         serializedVersion: 2
-        x: 108
-        y: 20
-        width: 50
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 436
+        y: 60
+        width: 192
+        height: 152
+      alignment: 9
+      pivot: {x: 0.71, y: 0.55}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -200,37 +200,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: raikiri_3
-      rect:
-        serializedVersion: 2
-        x: 115
-        y: 39
-        width: 13
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d3631817f10227870800000000000000
-      internalID: 8679034751316735549
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: raikiri_4
       rect:
         serializedVersion: 2
-        x: 168
-        y: 14
-        width: 57
-        height: 40
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 676
+        y: 60
+        width: 224
+        height: 156
+      alignment: 9
+      pivot: {x: 0.75, y: 0.57}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -243,77 +221,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: raikiri_5
-      rect:
-        serializedVersion: 2
-        x: 44
-        y: 0
-        width: 35
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f3eeef7b1dd09eea0800000000000000
-      internalID: -5843123847150244289
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: raikiri_6
-      rect:
-        serializedVersion: 2
-        x: 45
-        y: 20
-        width: 16
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d9798b41a2622e5c0800000000000000
-      internalID: -4187742741323016291
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: raikiri_7
-      rect:
-        serializedVersion: 2
-        x: 127
-        y: 14
-        width: 9
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3015f1092855f4c40800000000000000
-      internalID: 5498707689294745859
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: a6e89cf14ac39cc41aa890b06c41eef4
     internalID: 0
     vertices: []
     indices: 

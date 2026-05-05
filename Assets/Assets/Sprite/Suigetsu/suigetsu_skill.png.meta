@@ -1,0 +1,510 @@
+fileFormatVersion: 2
+guid: f83459fce49da244a89777bd8280e089
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7864399328606960983
+    second: suigetsu_skill_0
+  - first:
+      213: 298742720689301462
+    second: suigetsu_skill_1
+  - first:
+      213: 6000547749076561730
+    second: suigetsu_skill_2
+  - first:
+      213: -3392063582120326859
+    second: suigetsu_skill_3
+  - first:
+      213: 3361064057423596276
+    second: suigetsu_skill_4
+  - first:
+      213: -8181777804807482317
+    second: suigetsu_skill_5
+  - first:
+      213: -7598901353595056704
+    second: suigetsu_skill_6
+  - first:
+      213: 4830141700717286507
+    second: suigetsu_skill_7
+  - first:
+      213: -5983083941789785269
+    second: suigetsu_skill_8
+  - first:
+      213: -6741953941212467412
+    second: suigetsu_skill_9
+  - first:
+      213: -4968215729463867747
+    second: suigetsu_skill_10
+  - first:
+      213: 2218845365485913286
+    second: suigetsu_skill_11
+  - first:
+      213: 1705843030255542811
+    second: suigetsu_skill_12
+  - first:
+      213: -7360818396289634320
+    second: suigetsu_skill_13
+  - first:
+      213: 2108687531496363915
+    second: suigetsu_skill_14
+  - first:
+      213: 3589605017491892925
+    second: suigetsu_skill_15
+  - first:
+      213: 1043179777706924496
+    second: suigetsu_skill_16
+  - first:
+      213: 8718460039060989369
+    second: suigetsu_skill_17
+  - first:
+      213: -8284115478115074799
+    second: suigetsu_skill_18
+  - first:
+      213: -6547271686964958742
+    second: suigetsu_skill_19
+  - first:
+      213: -4833732414421199508
+    second: suigetsu_skill_20
+  - first:
+      213: 1507987857399710602
+    second: suigetsu_skill_21
+  - first:
+      213: 1064432592234241082
+    second: suigetsu_skill_22
+  - first:
+      213: -4261455556327772895
+    second: suigetsu_skill_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 60
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: suigetsu_skill_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 551
+        width: 201
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d3071a585f32d60800000000000000
+      internalID: 7864399328606960983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suigetsu_skill_1
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 551
+        width: 202
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d76be1fbe8552400800000000000000
+      internalID: 298742720689301462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suigetsu_skill_2
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 551
+        width: 261
+        height: 313
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f6a71b26a364350800000000000000
+      internalID: 6000547749076561730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suigetsu_skill_4
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 551
+        width: 313
+        height: 174
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa011ad3f5e4ae20800000000000000
+      internalID: 3361064057423596276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suigetsu_skill_7
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 551
+        width: 413
+        height: 174
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33456497f6c747e80800000000000000
+      internalID: -8181777804807482317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suigetsu_skill_5
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 551
+        width: 306
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ffeef8faae19d990800000000000000
+      internalID: -7360818396289634320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suigetsu_skill_6
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 551
+        width: 326
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba609faeb6d0d130800000000000000
+      internalID: 3589605017491892925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suigetsu_skill_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 437
+        height: 465
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d997171b7e1a7e00800000000000000
+      internalID: 1043179777706924496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suigetsu_skill_17
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 7
+        width: 506
+        height: 510
+      alignment: 9
+      pivot: {x: 0.45, y: -0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b52ba096313ef870800000000000000
+      internalID: 8718460039060989369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suigetsu_skill_18
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 67
+        width: 489
+        height: 450
+      alignment: 9
+      pivot: {x: 0.48, y: -0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11db2a02dd8e80d80800000000000000
+      internalID: -8284115478115074799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suigetsu_skill_20
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 67
+        width: 262
+        height: 318
+      alignment: 9
+      pivot: {x: 0.84, y: -0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c651223baf12becb0800000000000000
+      internalID: -4833732414421199508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suigetsu_skill_22
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 35
+        width: 150
+        height: 270
+      alignment: 9
+      pivot: {x: 0.5, y: -0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c58739dcf95ce00800000000000000
+      internalID: 1064432592234241082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: suigetsu_skill_23
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 0
+        width: 162
+        height: 213
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12de7faefb44cd4c0800000000000000
+      internalID: -4261455556327772895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a7ee9e53b77671440b8b07c1e1b5be56
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      suigetsu_skill_0: 7864399328606960983
+      suigetsu_skill_1: 298742720689301462
+      suigetsu_skill_10: -4968215729463867747
+      suigetsu_skill_11: 2218845365485913286
+      suigetsu_skill_12: 1705843030255542811
+      suigetsu_skill_14: 2108687531496363915
+      suigetsu_skill_16: 1043179777706924496
+      suigetsu_skill_17: 8718460039060989369
+      suigetsu_skill_18: -8284115478115074799
+      suigetsu_skill_19: -6547271686964958742
+      suigetsu_skill_2: 6000547749076561730
+      suigetsu_skill_20: -4833732414421199508
+      suigetsu_skill_21: 1507987857399710602
+      suigetsu_skill_22: 1064432592234241082
+      suigetsu_skill_23: -4261455556327772895
+      suigetsu_skill_3: -3392063582120326859
+      suigetsu_skill_4: 3361064057423596276
+      suigetsu_skill_5: -7360818396289634320
+      suigetsu_skill_6: 3589605017491892925
+      suigetsu_skill_7: -8181777804807482317
+      suigetsu_skill_8: -5983083941789785269
+      suigetsu_skill_9: -6741953941212467412
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

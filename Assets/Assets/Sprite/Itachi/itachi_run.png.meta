@@ -132,9 +132,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 7
-        width: 226
-        height: 205
+        y: 12
+        width: 232
+        height: 208
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -153,10 +153,10 @@ TextureImporter:
       name: itachi_run_1
       rect:
         serializedVersion: 2
-        x: 236
+        x: 256
         y: 0
-        width: 233
-        height: 212
+        width: 232
+        height: 224
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -175,10 +175,10 @@ TextureImporter:
       name: itachi_run_2
       rect:
         serializedVersion: 2
-        x: 479
+        x: 512
         y: 0
-        width: 242
-        height: 209
+        width: 244
+        height: 216
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -197,10 +197,10 @@ TextureImporter:
       name: itachi_run_3
       rect:
         serializedVersion: 2
-        x: 731
+        x: 780
         y: 0
-        width: 230
-        height: 212
+        width: 232
+        height: 220
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -219,10 +219,10 @@ TextureImporter:
       name: itachi_run_4
       rect:
         serializedVersion: 2
-        x: 971
-        y: 0
-        width: 254
-        height: 212
+        x: 1036
+        y: 4
+        width: 256
+        height: 220
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -241,10 +241,10 @@ TextureImporter:
       name: itachi_run_5
       rect:
         serializedVersion: 2
-        x: 1234
-        y: 0
-        width: 238
-        height: 209
+        x: 1312
+        y: 4
+        width: 244
+        height: 212
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
